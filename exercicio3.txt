@@ -1,5 +1,5 @@
 Algoritmo somarDoisNumeros
-ED:num1,num2, soma inteiro
+ED:num1,num2, subtracao inteiro
  
  Inicio
  
@@ -11,7 +11,7 @@ ED:num1,num2, soma inteiro
     LEIA num2
 
     // Processamento
-    soma ← num1 + num2
+    subtracao <-- num1 - num2
 
     // Saída de dados
     ESCREVA "A soma dos números é:", soma
