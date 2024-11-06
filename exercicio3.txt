@@ -1,0 +1,19 @@
+Algoritmo somarDoisNumeros
+ED:num1,num2, soma inteiro
+ 
+ Inicio
+ 
+	 // Entrada de dados
+    ESCREVA "Digite o primeiro número:"
+    LEIA num1
+
+    ESCREVA "Digite o segundo número:"
+    LEIA num2
+
+    // Processamento
+    soma ← num1 + num2
+
+    // Saída de dados
+    ESCREVA "A soma dos números é:", soma
+
+FIM
